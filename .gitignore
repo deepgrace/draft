@@ -1,0 +1,14 @@
+*.pb.*
+*.logs
+*.stat
+*.ldbs
+*.vote
+*.snap
+bin/
+build/
+entry_reader
+reconfigure
+raft_client
+raft_server
+config_client
+config_server
